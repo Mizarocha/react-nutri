@@ -1,4 +1,57 @@
-# Getting Started with Create React App
+
+# Requisição HTTP 
+
+Criei uma aplicação em reactjs para fazer uma requisição. 
+
+## Nesse projeto foi utilizado :
+
+[Visual Studio Code](https://code.visualstudio.com/)          
+
+- Framework: [React](https://pt-br.reactjs.org/)              
+- Linguagem: [Java script](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)         
+
+## Criei uma API :
+
+[Sheet.best](https://sheet.best/)            
+
+https://sheet.best/api/sheets/f1a2f00b-2754-4382-bb3c-b4d000697f8d
+
+## Projeto:    
+
+ Um informativo de ábitos saudáveis, contendo :     
+ - Título        
+ - Imagem      
+ - Subtítulo                
+ 
+Com estilazação só para ficar bem apresentável.
+
+## Resumo do projeto:    
+Foi feita uma aplicação, vai ter o flux no userEffect, lá vai ter o 
+loadApp que dentro dela vai fazer um fetch na url ( GET ) e vai fazer a requisiçao para buscar todas as informações .
+E o resultado é o json que vai jogar tudo dentro no setNutri [era um array vazio] E com isso vai poder usar todas as propriedades .
+
+Foi usado o {map}, percorreu todos os itens que estava dentro do array nutri e dentro dessa propriedade {item} tem acesso aos itens. 
+Com isso foi usou o titulo, imagem ,subtitulo e o botaõ acessar para ficar aprensentável .
+
+
+## Conclusão :
+
+Para acontecer a requisição HTTP foi o seguinte, vim na useState nutri percorrir ela utlizando o método map do javascript mesmo, 
+ele percorri todo nosso array, e cada item que vai passando tem um item nesse objeto e utlizamos da forma que quisermos.
+
+
+## Link Pages:
+
+
+
+## Demostração: 
+
+
+
+## Autora:     
+- Artemiza Rocha
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
