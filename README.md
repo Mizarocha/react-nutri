@@ -7,7 +7,7 @@ Criei uma aplicação em reactjs para fazer uma requisição.
 
 [Visual Studio Code](https://code.visualstudio.com/)          
 
-- Linguagem: [Java script](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) e [CSS](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/CSS_basics)         
+- Linguagem: [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html), [JAVA SCRIPT](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) e [CSS](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/CSS_basics)         
 - Framework: [React](https://pt-br.reactjs.org/) 
 
 
