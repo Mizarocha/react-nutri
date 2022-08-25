@@ -28,10 +28,10 @@ Com estilazação só para ficar bem apresentável.
 ## Resumo do projeto:    
 Foi feita uma aplicação, vai ter o flux no userEffect, lá vai ter o 
 loadApp que dentro dela vai fazer um fetch na url ( GET ) e vai fazer a requisiçao para buscar todas as informações .
-E o resultado é o json que vai jogar tudo dentro no setNutri [era um array vazio] E com isso vai poder usar todas as propriedades .
+E o resultado é o json que vai jogar tudo dentro no setNutri [que antes era um array vazio] E com isso vai poder usar todas as propriedades .
 
-Foi usado o {map}, percorreu todos os itens que estava dentro do array nutri e dentro dessa propriedade {item} tem acesso aos itens. 
-Com isso foi usou o titulo, imagem ,subtitulo e o botaõ acessar para ficar aprensentável .
+Foi usado o {map}, percorreu todos os itens que estava dentro do array nutri e dentro dessa propriedade {item}qque vai ter acesso aos itens. 
+Com isso foi usado o titulo, imagem ,subtitulo e o botão acessar para ficar aprensentável .
 
 
 ## Conclusão :
@@ -39,19 +39,14 @@ Com isso foi usou o titulo, imagem ,subtitulo e o botaõ acessar para ficar apre
 Para acontecer a requisição HTTP foi o seguinte, vim na useState nutri percorrir ela utlizando o método map do javascript mesmo, 
 ele percorri todo nosso array, e cada item que vai passando tem um item nesse objeto e utlizamos da forma que quisermos.
 
-
-## Link Pages:
-
-
-
 ## Demostração: 
+
+![SharedScreenshot](https://user-images.githubusercontent.com/88461178/186742260-eeaa1e36-3337-423c-b4e1-02694372313d.jpg)
 
 
 
 ## Autora:     
 - Artemiza Rocha
-
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
