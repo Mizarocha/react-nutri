@@ -37,8 +37,8 @@ Com isso foi usado o titulo, imagem ,subtitulo e o botão acessar para ficar apr
 
 ## Conclusão :
 
-Para acontecer a requisição HTTP foi o seguinte, vim na useState nutri percorrir ela utlizando o método map do javascript mesmo, 
-ele percorri todo nosso array, e cada item que vai passando tem um item nesse objeto e utlizamos da forma que quisermos.
+Para acontecer a requisição HTTP foi o seguinte, vim na useState nutri percorri ela utilizando o método map do javascript mesmo, 
+ele percorri todo nosso array, e cada item que vai passando tem um item nesse objeto e utilizamos da forma que quisermos.
 
 ## Demostração: 
 
