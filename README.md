@@ -32,7 +32,7 @@ loadApp que dentro dela vai fazer um fetch na url ( GET ) e vai fazer a requisi�
 E o resultado é o json que vai jogar tudo dentro no setNutri [que antes era um array vazio] E com isso vai poder usar todas as propriedades .
 
 Foi usado o {map}, percorreu todos os itens que estava dentro do array nutri e dentro dessa propriedade {item}qque vai ter acesso aos itens. 
-Com isso foi usado o titulo, imagem ,subtitulo e o botão acessar para ficar aprensentável .
+Com isso foi usado o titulo, imagem ,subtitulo e o botão acessar para ficar apresentável .
 
 
 ## Conclusão :
