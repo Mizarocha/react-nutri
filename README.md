@@ -28,10 +28,10 @@ Com estilazação só para ficar bem apresentável.
 
 ## Resumo do projeto:    
 Foi feita uma aplicação, vai ter o flux no userEffect, lá vai ter o 
-loadApp que dentro dela vai fazer um fetch na url ( GET ) e vai fazer a requisiçao para buscar todas as informações .
+loadApp que dentro dela vai fazer um fetch na url ( GET ) e vai fazer a requisição para buscar todas as informações .
 E o resultado é o json que vai jogar tudo dentro no setNutri [que antes era um array vazio] E com isso vai poder usar todas as propriedades .
 
-Foi usado o {map}, percorreu todos os itens que estava dentro do array nutri e dentro dessa propriedade {item}qque vai ter acesso aos itens. 
+Foi usado o {map}, percorreu todos os itens que estava dentro do array nutri e dentro dessa propriedade {item}que vai ter acesso aos itens. 
 Com isso foi usado o titulo, imagem ,subtitulo e o botão acessar para ficar apresentável .
 
 
