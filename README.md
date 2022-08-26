@@ -42,8 +42,7 @@ ele percorri todo nosso array, e cada item que vai passando tem um item nesse ob
 
 ## Demostração: 
 
-![SharedScreenshot](https://user-images.githubusercontent.com/88461178/186742260-eeaa1e36-3337-423c-b4e1-02694372313d.jpg)
-
+![certo](https://user-images.githubusercontent.com/88461178/186981511-d50f6e1e-1e63-41f9-8e1e-2c359a46e799.jpg)
 
 
 ## Autora:     
