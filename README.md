@@ -1,14 +1,14 @@
 
-# Requisição HTTP 
+<h1 align="center">Requisição HTTP</h1>
 
-Criei uma aplicação em reactjs para fazer uma requisição. 
+<h2 align="center">Criei uma aplicação em reactjs para fazer uma requisição</h2>
 
 ## Nesse projeto foi utilizado :
 
-[Visual Studio Code](https://code.visualstudio.com/)          
+- Ferramenta: [Visual Studio Code](https://code.visualstudio.com/)          
 
 - Linguagem: [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html), [JAVA SCRIPT](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) e [CSS](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/CSS_basics)         
-- Framework: [React](https://pt-br.reactjs.org/) 
+- Framework: [React.js](https://pt-br.reactjs.org/) 
 
 
 ## Criei uma API :
@@ -40,79 +40,33 @@ Com isso foi usado o titulo, imagem ,subtitulo e o botão acessar para ficar apr
 Para acontecer a requisição HTTP foi o seguinte, vim na useState nutri percorri ela utilizando o método map do javascript mesmo, 
 ele percorri todo nosso array, e cada item que vai passando tem um item nesse objeto e utilizamos da forma que quisermos.
 
+### Rodar Projeto:
+
+Clone o projeto com esse comando:
+
+```
+https://github.com/Mizarocha/WhatsApp-GPT.git
+```
+Instale a dependência do projeto:
+```
+npm install 
+```
+Para iniciar o comando da:
+```
+npm start
+``` 
 ## Demostração: 
 
-![certo](https://user-images.githubusercontent.com/88461178/186981511-d50f6e1e-1e63-41f9-8e1e-2c359a46e799.jpg)
+<div align="center">
+<img width=450 height=450 src="https://user-images.githubusercontent.com/88461178/227242709-8a7da433-1d63-4142-9b9a-047d5a91a1ca.jpg"/>
+</div>
 
+<h3 align="center"> Autora: Artemiza Rocha</h3>   
 
-## Autora:     
-- Artemiza Rocha
+<div align="center">
+  <a href="https://www.linkedin.com/in/artemiza-rocha/a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/Mizarocha" target="_blank"><img src="https://img.shields.io/badge/-GITHUB-%23E4405F?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  </div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h4 align="center">Desenvolvido com 💜 </h4>
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
