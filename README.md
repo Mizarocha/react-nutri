@@ -58,7 +58,9 @@ npm start
 ## Demostração: 
 
 <div align="center">
-<img width=450 height=450 src="https://user-images.githubusercontent.com/88461178/227242709-8a7da433-1d63-4142-9b9a-047d5a91a1ca.jpg"/>
+<img width=450 height=450 src="https://user-images.githubusercontent.com/88461178/227242709-8a7da433-1d63-4142-9b9a-047d5a91a1ca.jpg"/> 
+
+ <img width=450 height=450 src="https://user-images.githubusercontent.com/88461178/227245626-8d6c2023-d2e5-4607-9d15-f9108d3b4bb3.jpg"/>
 </div>
 
 <h3 align="center"> Autora: Artemiza Rocha</h3>   
