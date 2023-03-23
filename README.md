@@ -45,7 +45,7 @@ ele percorri todo nosso array, e cada item que vai passando tem um item nesse ob
 Clone o projeto com esse comando:
 
 ```
-https://github.com/Mizarocha/WhatsApp-GPT.git
+https://github.com/Mizarocha/react-nutri.git
 ```
 Instale a dependência do projeto:
 ```
