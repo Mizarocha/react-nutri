@@ -8,7 +8,9 @@
 - Ferramenta: [Visual Studio Code](https://code.visualstudio.com/)          
 
 - Linguagem: [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html), [JAVA SCRIPT](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) e [CSS](https://developer.mozilla.org/pt-BR/docs/Learn/Getting_started_with_the_web/CSS_basics)         
+
 - Framework: [React.js](https://pt-br.reactjs.org/) 
+
 
 
 ## Criei uma API :
